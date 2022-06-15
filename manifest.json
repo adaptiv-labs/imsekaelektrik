@@ -1,0 +1,16 @@
+{
+  "name": "IMS",
+  "short_name": "IMS-Apps",
+  "icons": [{
+    "src": "images/logo1.png",
+    "sizes": "96x96"
+  }, {
+    "src": "images/logo2.png",
+    "sizes": "192x192"
+  }],
+  "theme_color": "#0d6efd",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "landscape",
+  "start_url": "index.html"
+}

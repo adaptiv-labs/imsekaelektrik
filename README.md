@@ -1,2 +1,3 @@
-# ims
-INVENTORY MANAGEMENT SYSTEM
+# js-btyss7
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-btyss7)
